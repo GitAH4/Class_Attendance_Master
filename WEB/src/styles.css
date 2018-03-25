@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+img {
+  display: inline-block;
+}
+.main-class {
+padding-top: 10%;
+}
+.table{
+
+  width: 50%
+}
